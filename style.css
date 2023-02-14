@@ -1,0 +1,126 @@
+.object {
+  background-color: #B9F3FC;
+  padding: 20px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+hr{
+  border:dotted #EAF6F6 6px;
+  border-bottom: none;
+  margin:50px auto;
+  width:4%;
+}
+p{
+
+  margin-bottom: 0;
+  line-height: 2;
+}
+body{
+  margin: 0;
+  color: #40514E;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+  color: #66BFBF;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 250%;
+  color: #66BFBF;
+  font-weight: normal;
+  margin-bottom: 20px;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+div{
+  text-align: center;
+}
+.intro{
+  width:30%;
+  margin:auto;
+}
+.middle-container{
+  margin: 100px auto ;
+}
+
+
+.middle-cloud{
+  position: absolute;
+  bottom:400px;
+  left:350px;
+}
+.upper-cloud{
+  position:absolute;
+  top:50px;
+  right:400px;
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+
+
+}
+.skillone{
+  width:25%;
+  float: left;
+  padding-right: 30px;
+}
+.skilltwo{
+  width:25%;
+  float: right;
+  padding-right: 30px;
+}
+.space{
+  margin-bottom: 50px;
+}
+.btn {
+
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Montserrat', sans-serif;
+  color: #40514e;
+  font-size: 21px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+a{
+  color:#11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.copywrite{
+  color: #EAF6F6;
+  font-size: 75%;
+  padding:20px;
+}
